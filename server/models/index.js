@@ -1,5 +1,5 @@
 /**
- * Created by Mazen.
+ * Created by Mazen
  */
 
 module.exports = {

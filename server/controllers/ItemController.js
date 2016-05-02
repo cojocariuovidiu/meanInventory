@@ -1,5 +1,5 @@
 /**
- * Created by Mazen.
+ * Created by Mazen
  */
 
 var Resource   = require ( 'resourcejs' );

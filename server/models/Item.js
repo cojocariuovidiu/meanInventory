@@ -1,5 +1,5 @@
 /**
- * Created by Mazen.
+ * Created by Mazen
  */
 
 var mongoose = require ( 'mongoose' );
